@@ -1,5 +1,7 @@
 {
+  "type": "module",
   "dependencies": {
+    "express": "^4.21.0",
     "react-router-dom": "^6.26.2"
   }
 }
